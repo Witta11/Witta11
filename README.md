@@ -8,3 +8,9 @@
 - 📫 How to **contact** me:
     - email: wittagloeckner@gmail.com
     - instagram: whatmademe.see
+
+## Languages
+
+- German
+- English
+- Spanish
