@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Witta</h1>
 <h3 align="center">A passionate Junior Full-Stack Web Developer</h3>
 
-- 💻 I’m currently working on **personal projects like a profil-page**
+- 💻 I’m currently working on **personal projects and I am freelancing**
 
 - 📜 I’m currently learning **ruby on rails in more depth, javascript and soon react**
 
-- 🥂 I’m looking to collaborate on **on Rails projects**
+- 🥂 I’m looking to collaborate on **Rails projects**
 
 - 🤝 I’m looking for help with **js**
 
