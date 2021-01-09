@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Witta</h1>
 <h3 align="center">A passionate Junior Full-Stack Web Developer from Germany</h3>
 
-- 💻 I’m currently working as [a Teaching Assistant](@ Le Wagon Berlin)
+- 💻 I’m currently working as a Teaching Assistant @ Le Wagon Berlin
 
-- 🤝 I’m looking for help with **JS**
+- 🤝 I’m looking for help with **JS** & **React**
 
-- 📜 I’m currently learning ruby on rails, in more depth **javascript and soon react**
+- 📜 I’m currently learning Ruby on Rails in more depth, **javascript and soon react**
 
 - 📫 How to reach me: **wittagloeckner@gmail.com**
 
