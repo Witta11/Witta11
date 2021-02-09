@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **JS** & **React**
 
-- 📜 I’m currently learning Ruby on Rails in more depth, **javascript and soon react**
+- 📜 I’m currently learning Ruby on Rails in more depth, **javascript and react**
 
 - 📫 How to reach me: **wittagloeckner@gmail.com**
 
